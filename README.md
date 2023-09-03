@@ -10,4 +10,5 @@ More than **40 million** data from: https://tianchi.aliyun.com/dataset/dataDetai
 Personal research
 
 ## Publication
-Accepted by _the 4th International Conference on Computing and Data Science_ on April 14, 2022
+* Accepted by [_the 4th International Conference on Computing and Data Science_](https://www.confcds.org/index.html) on April 14, 2022  
+* Check the paper at: [Download Paper](https://ace.ewapublishing.org/media/f0a43ac0884f465ca2f1847881bf9fc2.marked_O0HYNnn.pdf)
