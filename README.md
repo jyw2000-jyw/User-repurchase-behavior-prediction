@@ -7,7 +7,7 @@ Research on the prediction of E-commerce repurchase behavior based on multiple f
 More than **40 million** data from: https://tianchi.aliyun.com/dataset/dataDetail?dataId=46&userId=1
 
 ## Research Supervisor
-Personal research
+Individual research
 
 ## Publication
 * Accepted by [_the 4th International Conference on Computing and Data Science_](https://www.confcds.org/index.html) on April 14, 2022  
