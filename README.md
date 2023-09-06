@@ -1,14 +1,15 @@
 # User-repurchase-behavior-prediction
 
-## Research Topic
+## About
+### Research Topic
 Research on the prediction of E-commerce repurchase behavior based on multiple fusion models
 
-## Source of Data
+### Source of Data
 More than **40 million** data from: https://tianchi.aliyun.com/dataset/dataDetail?dataId=46&userId=1
 
-## Research Supervisor
+### Research Supervisor
 Individual research
 
 ## Publication
 * Accepted by [_the 4th International Conference on Computing and Data Science_](https://www.confcds.org/index.html) on April 14, 2022  
-* Check the paper at: [Download Paper](https://ace.ewapublishing.org/media/f0a43ac0884f465ca2f1847881bf9fc2.marked_O0HYNnn.pdf)
+* Check the paper at: [Download Paper](https://www.researchgate.net/publication/372630245_Research_on_prediction_of_e-commerce_repurchase_behavior_based_on_multiple_fusion_models)
