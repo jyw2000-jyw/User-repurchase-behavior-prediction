@@ -2,7 +2,7 @@
 
 ## About
 ### Research Topic
-Research on the prediction of E-commerce repurchase behavior based on multiple fusion models
+Research on the prediction of E-commerce repurchase behavior based on **Soft-Voting** and **Stacking**
 
 ### Source of Data
 More than **40 million** data from: https://tianchi.aliyun.com/dataset/dataDetail?dataId=46&userId=1
